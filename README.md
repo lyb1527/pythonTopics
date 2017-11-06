@@ -1,0 +1,1 @@
+notes on python topics 
